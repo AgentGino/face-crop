@@ -15,7 +15,7 @@ This script uses OpenCV to automatically detect and crop faces from images. It c
 
 2.  **Clone the repository (optional)**:
     ```bash
-    git clone https://github.com/your-username/face-crop.git
+    git clone https://github.com/AgentGino/face-crop.git
     cd face-crop
     ```
 
